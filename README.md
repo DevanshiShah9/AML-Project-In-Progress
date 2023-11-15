@@ -27,12 +27,17 @@ Here is an overview of the project's current progress:
 
 3. **Data Visualization:** I have created data visualizations to better understand transaction patterns and relationships within the dataset.
 
+4. **Feature Engineering:** I have removing the outliers from txs_df, combined the dataframes with all the required columns,extracted more information using sender_account_id and receiver_account_id such as frequency and recency which is the number of transactions or the time since the last transaction for each sender account as a sender and each receiver account as a receiver, train-test split for time-series data, standardizing the tx_amount column, correlation, sampling for dealing with imbalance in train dataset, multicollinearity using VIF.
+
+5. **Superevised Machine Learning Model Development:** By far I have worked with Logistic Regression and Random Forest to predict fraudulent transactions.
+
+
 Please stay tuned for further updates as I move forward with model development, evaluation, and the creation of data-driven dashboards.
 
 ## Next Steps
 The next steps in the project involve:
 
-- Supervised Machine Learning Model Development
+- Supervised Machine Learning Model Development (continue)
 - Unsupervised Machine Learning for Account Risk Assessment
 - Integration with GraphQL and Apache Kafka
 - Web Application Development using Node.js and React.js
