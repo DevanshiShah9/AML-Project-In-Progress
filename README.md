@@ -1,7 +1,7 @@
 # Fraud Detection and Account Risk Assessment Project (Anti-Money Laundering)
 
 ## Goal
-The primary goal of this project is to develop a machine learning model capable of identifying fraudulent transactions within a dataset. I aim to leverage supervised machine learning techniques to detect patterns associated with fraudulent transactions, with a particular focus on identifying Fanon cycles. Additionally, I plan to employ unsupervised machine learning to predict the likelihood of an account being fraudulent based on these detected transactions.
+The primary goal of this project is to develop a machine learning model capable of identifying fraudulent transactions within a dataset. I aim to leverage supervised machine learning techniques to detect patterns associated with fraudulent transactions, with a particular focus on identifying SAR cycles. Additionally, I plan to employ unsupervised machine learning to predict the likelihood of an account being fraudulent based on these detected transactions.
 
 ## Tech Stack
 - Python Libraries for Data Science Pipeline
