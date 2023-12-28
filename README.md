@@ -43,5 +43,5 @@ The next steps in the project involve:
 - Web Application Development using Node.js and React.js
 
 
-Thank you for your interest in my project!
+Thank you for your interest in my project! 
 
